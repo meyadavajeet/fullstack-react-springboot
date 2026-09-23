@@ -7,7 +7,7 @@ const Header = () => (
       <div className="container">
         <a href="/" className="link">
           <FontAwesomeIcon icon={faTags} className="fa-icon" />
-          <span className="brand-title">Eazy Stickers</span>
+          <span className="brand-title">Aj Stickers</span>
         </a>
         <nav className="nav">
           <ul>
